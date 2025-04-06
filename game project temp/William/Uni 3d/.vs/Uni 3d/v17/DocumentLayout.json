@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Test\\Uni 3d\\",
+  "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Intro_to_Games_Production\\game project temp\\William\\Uni 3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE0F147-D6FA-01BB-2C24-BDFB5C19AC45}|Assembly-CSharp.csproj|c:\\users\\willi\\onedrive\\documents\\github\\test\\uni 3d\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DE0F147-D6FA-01BB-2C24-BDFB5C19AC45}|Assembly-CSharp.csproj|c:\\users\\willi\\onedrive\\documents\\github\\intro_to_games_production\\game project temp\\william\\uni 3d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE0F147-D6FA-01BB-2C24-BDFB5C19AC45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE0F147-D6FA-01BB-2C24-BDFB5C19AC45}|Assembly-CSharp.csproj|c:\\users\\willi\\onedrive\\documents\\github\\intro_to_games_production\\game project temp\\william\\uni 3d\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE0F147-D6FA-01BB-2C24-BDFB5C19AC45}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Intro_to_Games_Production\\game project temp\\William\\Uni 3d\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Intro_to_Games_Production\\game project temp\\William\\Uni 3d\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:12:08.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FollowPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Test\\Uni 3d\\Assets\\Scripts\\FollowPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Intro_to_Games_Production\\game project temp\\William\\Uni 3d\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Test\\Uni 3d\\Assets\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\Documents\\GitHub\\Intro_to_Games_Production\\game project temp\\William\\Uni 3d\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\FollowPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
